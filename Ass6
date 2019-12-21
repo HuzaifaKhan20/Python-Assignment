@@ -1,0 +1,17 @@
+Python-Programming
+Assignment # 6
+
+Question 1: Define Object Oriented Programming Language?
+Answer: Object Oriented Programming is a methodology to design a program using classes and objects. In Object Oriented Programming we use objects, based upon real world entities and classes that are the blue print about the capability of what an object can do.
+
+Question 2: List down the Benefits of OOP? 
+Answer: OOP has a function Inheritance by which we can reuse the code, by encapsulation we can restrict access to methods and variabes, It is possible to have multiple instances of an objects to co-exist without any interference, data hiding helps programmer for safety
+
+Question 3: Differentiate between function and method? 
+Answer: function describes the behaviour of the model, they donot have any varable. methods are called by variables
+
+Question 4: Define the following terms: 1. Class 2. Object 3. Attribute 4. Behavior 
+Answer: Class is a function of attribues and functions. Object is inheritance of a class attributes are the variables your class have like model name etc. Behaviour is the way the object can do anything. Attributes store information about the instance.
+
+Question 5: Write a code in python in which create a class named it Car which have 5 attributes such like (model, color and name etc.) and 3 methods. And create 5 object instance from that class. 
+Answer: 
